@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>CATHERINES BOOK CLUB</title>
+</head>
+<link rel="stylesheet" type="text/css" href="style.css" />
+<body>
+<h1>
+CATHERINES BOOK CLUB
+</h1>
+<h2>
+In my book club you will read many books like;
+</h2>
+<ul>
+<li>Snow white</li>  
+<li>the princess and the pea</li>
+</ul>
+<section id="snowwhite">
+Snow white
+<img src="snow-white-and-the-seven-dwarfs-7.jpg"height="150px"width="150 px">
+</img>
+</section>
+<section id="theprincessandthepea">
+THE PRINCESS AND THE PEA
+<img src="20211011_185316_1024x1024@2x.webp"height="150px"width="150 px">
+</img>
+</section>
+</head>
+</body>
+</html>

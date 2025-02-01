@@ -1,0 +1,30 @@
+
+h1{
+color: blue;
+background-color: aqua;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+}
+h2{
+border: 10cap;
+padding: 10;
+background-color:purple ;
+border-style: initial;
+color: aqua;
+text-decoration: overline;
+}
+li{
+color: blueviolet;
+border-color: bisque;
+background-color: aqua;
+}
+#snowwhite{
+background-color: aqua;
+color: brown;
+position: fixed;
+}
+#theprincessandthepea{
+color: crimson;
+background-color: chocolate;
+background-image: -moz-radial-gradient();
+}
