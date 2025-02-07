@@ -18,13 +18,21 @@ color: blueviolet;
 border-color: bisque;
 background-color: aqua;
 }
+#flex{
+display: flex;
+flex-direction: row;
+}
 #snowwhite{
+display: flex;
+justify-content: space-between;
 background-color: aqua;
 color: brown;
 position: fixed;
+text-align: left;
 }
 #theprincessandthepea{
+display: flex;
+justify-content: center;
 color: crimson;
 background-color: chocolate;
-background-image: -moz-radial-gradient();
 }
